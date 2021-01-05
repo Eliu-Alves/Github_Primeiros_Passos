@@ -1,3 +1,6 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Eliu-Alves/Github_Primeiros_Passos)
+![GitHub](https://img.shields.io/github/license/Eliu-Alves/Github_Primeiros_Passos)
+
 # Primeiros Passos no GitHub
 ## lições durante o curso de GitHub
 Texto para teste para mostra a implentação do GIF
