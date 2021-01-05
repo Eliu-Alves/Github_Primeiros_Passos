@@ -4,6 +4,8 @@
 
 # Primeiros Passos no GitHub
 ## lições durante o curso de GitHub
+Observação:imagens e gifs meramentes ilustrativas para motivo de aprendizagem 
+
 Texto para teste para mostra a implentação do GIF
 
 
